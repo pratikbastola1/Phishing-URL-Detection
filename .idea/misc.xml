@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="executionMode" value="BINARY" />
+    <option name="pathToExecutable" value="/Library/anaconda3/bin/black" />
+    <option name="sdkUUID" value="89d3e8df-c045-41c0-8f33-26abf1c3ab60" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.7 (Phishing-URL-Detection)" project-jdk-type="Python SDK" />
+</project>
